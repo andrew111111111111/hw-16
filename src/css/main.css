@@ -1,0 +1,34 @@
+.container {
+  max-width: 630px;
+  padding: 0px 15px;
+  margin: 40px auto 0px;
+  display: flex;
+}
+.bg-box {
+  max-width: 600px;
+  padding: 400px;
+  background-color: darkgreen;
+}
+.bg-box {
+  content: "";
+  background-image: url(../img/haus.webp);
+  background-repeat: no-repeat;
+  background-size: 100px;
+  background-position: 50% 50%;
+  background-image: url(../img/green.png);
+  background-repeat: repeat-x;
+  background-size: 20px;
+  background-position: 100% 0%;
+  background-image: url(../img/lamp.png);
+  background-repeat: repeat-x;
+  background-size: 20px;
+  background-position: 0% 100%;
+  background-image: url(../img/donat.png);
+  background-repeat: repeat-y;
+  background-size: 20px;
+  background-position: 100% 0%;
+  background-image: url(../img/hedgehoh.webp);
+  background-repeat: repeat-y;
+  background-size: 20px;
+  background-position: 0% 100%;
+}
